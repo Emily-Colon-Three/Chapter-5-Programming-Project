@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1762999799 source:/home/paulmichaelolsen/C++ Projects/Tutorials and Learning/PopulationBarChartProgram/main.cpp
-	<iostream>
-	<fstream>
-	<string>
-
